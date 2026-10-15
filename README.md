@@ -17,7 +17,7 @@ Learning Goals
 Daily Progress Tracker
 
 Day| Topics| Status| Documentation
-Day 1| | Completed| "" (./Day-1/)
+Day 1| | Completed| "https://github.com/gayathri-kesavan/devops-daily-tracker/tree/main/Day-1" (./Day-1/)
 Day 2| Add your Day 2 topic| Not started| —
 Day 3| Add your Day 3 topic| Not started| —
 Day 4| Add your Day 4 topic| Not started| —
