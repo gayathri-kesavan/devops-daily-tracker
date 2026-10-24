@@ -18,7 +18,9 @@ Daily Progress Tracker
 
 Day| Topics| Status| Documentation
 Day 1| 𝘿𝙖𝙮 1 — 𝙂𝙞𝙩 𝙖𝙣𝙙 𝙂𝙞𝙩𝙃𝙪𝙗 𝙁𝙪𝙣𝙙𝙖𝙢𝙚𝙣𝙩𝙖𝙡𝙨 | Completed| ``[https://github.com/gayathri-kesavan/devops-daily-tracker/tree/main/Day-1] 
+
 Day 2| 𝘿𝙖𝙮 2 — 𝙂𝙞𝙩 𝙖𝙣𝙙 𝙂𝙞𝙩𝙃𝙪𝙗 𝙁𝙪𝙣𝙙𝙖𝙢𝙚𝙣𝙩𝙖𝙡𝙨 along with docker intro  | Completed| ``[https://github.com/gayathri-kesavan/devops-daily-tracker/tree/main/Day-2] 
+
 Day 3| 𝘿𝙖𝙮 3 — Docker Basics | Completed| ``[https://github.com/gayathri-kesavan/devops-daily-tracker/tree/main/Day3] 
 
 Repository Structure
